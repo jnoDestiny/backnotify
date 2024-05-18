@@ -2,7 +2,7 @@
 name = "backnotify"
 version = "0.0.1"
 description = "Periodically notify yourself to sit up straight."
-authors = ["Jonathan Desyatnik <fthanscot@gmail.com>"]
+authors = ["Jonathan Desyatnik <thanscot@gmail.com>"]
 repository = "https://github.com/jnoDestiny/backnotify"
 documentation = "https://jnoDestiny.github.io/backnotify/"
 readme = "README.md"
